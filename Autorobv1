@@ -98,7 +98,7 @@ function gametp()
        end
    end
 
-   while wait(0.05) do
+   while wait(0) do
    	game:GetService('TeleportService'):TeleportToPlaceInstance(game.PlaceId, ServerList[math.random(1,#ServerList)].id)
    end
 end
@@ -131,7 +131,7 @@ function RobSpecific(robberyplace)
                             times = times + 1
                             local BlockPos = y.Adornee.Position
                             tp(BlockPos)
-                            wait(0.26)
+                            wait(0.5)
                             if y and y.Adornee then
                                 if y.Adornee.Parent ~= nil  then
                                     --print("Attemtping to rob")
@@ -167,7 +167,7 @@ if game.Players.LocalPlayer.Team == game.Teams["Choosing Team"] then
     GuiModule.TweenTeamChooseGui(TeamChooseFrame, {"Disappear"}, true)
     GuiModule.OpenBasicGui(MainGui)
     TestCharacter()
-    wait(0.04)
+    wait(0)
     tp(Vector3.new(14,10000,-14))
     repeat wait(0.01) until game.Players.LocalPlayer.Team == game.Teams.Criminal
     --setclipboard(tostring(player.Character.HumanoidRootPart.Position))
@@ -176,13 +176,13 @@ if game.Players.LocalPlayer.Team == game.Teams["Choosing Team"] then
     player.CharacterAdded:Wait()
     TestCharacter()
     fireclickdetector(workspace.Item.Armor_Police.Armor.ClickDetector)
-    wait(1)
+    wait(0)
     for _,y in pairs(workspace.Map.Outside.Robbery_Places:GetChildren()) do
         print("Robbing "..y.Name)
         RobSpecific(y.Name)
     end
     tp(Vector3.new(14,10000,-14))
-    wait(3.5)
+    wait(3)
     game.ReplicatedStorage.RemoteEvent:FireServer({"SwitchTeam"})
     gametp()
 end
