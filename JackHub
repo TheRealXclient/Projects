@@ -9,8 +9,8 @@ local Tab = Window:MakeTab({
 })
 
 OrionLib:MakeNotification({ 
-	Name = "Xclient",
-	Content = "Private Members",
+	Name = "You Injected Xclient",
+	Content = "Hello , Jack",
 	Image = "rbxassetid://4483345998",
 	Time = 20
 })
@@ -64,7 +64,8 @@ local Tab = Window:MakeTab({
 Tab:AddButton({
 	Name = "⚙ Bloxburg",
 	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/Xheke6ne"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/Scar%20Hub"))()
+
 
 
 
