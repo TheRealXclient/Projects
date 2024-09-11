@@ -1,0 +1,132 @@
+
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "Xclient | Hub v3", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+local Tab = Window:MakeTab({
+	Name = "PlayerMode",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+OrionLib:MakeNotification({ 
+	Name = "Xclient",
+	Content = "Private Members",
+	Image = "rbxassetid://4483345998",
+	Time = 20
+})
+Tab:AddButton({
+	Name = "⚙ Hitbox",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/mG37TZ4C"))()
+
+
+      		print("button pressed")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "⚙ Jump",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/5qvC8snF"))()
+
+
+   		print("button pressed")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "⚙ Speed",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/K3AuMYea"))()
+
+
+   		print("button pressed")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "⚙ Fling",
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI"))() 
+
+
+
+   		print("button pressed")
+  	end    
+})
+
+local Tab = Window:MakeTab({
+	Name = "jack tab",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+	Name = "⚙ Bloxburg",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/Xheke6ne"))() 
+
+
+
+
+   		print("button pressed")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "⚙ BloxFruits",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/j08xM9mW", true))()
+
+
+
+
+   		print("button pressed")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "⚙ Pet Sim",
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s-0-a-b/nexus/main/loadstring"))()
+
+
+
+
+   		print("button pressed")
+  	end    
+})
+
+local Tab = Window:MakeTab({
+	Name = "Admin tab",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+Tab:AddButton({
+	Name = "⚙ NA",
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();
+
+
+
+
+   		print("button pressed")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "⚙ Infinite Yield",
+	Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+
+
+
+
+
+   		print("button pressed")
+  	end    
+})
+
+
