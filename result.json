@@ -1,0 +1,2498 @@
+[
+    {
+        "_id": "66dd12dfc13a40f1b2350da7",
+        "title": "AtherHub",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://tr.rbxcdn.com/3111f53e15eb0c3bcaf4949af4657ba3/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-AtherHub-18013\"))()",
+        "slug": "Murder-Mystery-2-AtherHub-18013",
+        "verified": true,
+        "key": true,
+        "keyLink": "https://ads.luarmor.net/get_key?for=AtherHub_Key-uOsEXGVZazzi",
+        "views": 149940,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-08T02:58:39.020Z",
+        "updatedAt": "2024-09-27T17:06:51.776Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66ce8fa59a3bc395eac3bc4b",
+        "title": "AtherHub",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://tr.rbxcdn.com/3111f53e15eb0c3bcaf4949af4657ba3/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-AtherHub-17661\"))()",
+        "slug": "Murder-Mystery-2-AtherHub-17661",
+        "verified": true,
+        "key": true,
+        "keyLink": "https://ads.luarmor.net/get_key?for=AtherHub_Key-uOsEXGVZazzi",
+        "views": 284618,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-28T02:47:01.439Z",
+        "updatedAt": "2024-09-27T17:05:12.997Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66bbe514074fbd6e5f155a8c",
+        "title": "AtherHub",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://tr.rbxcdn.com/3111f53e15eb0c3bcaf4949af4657ba3/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-AtherHub-17204\"))()",
+        "slug": "Murder-Mystery-2-AtherHub-17204",
+        "verified": true,
+        "key": true,
+        "keyLink": "https://ads.luarmor.net/get_key?for=AtherHub_Key-uOsEXGVZazzi",
+        "views": 366729,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-13T22:58:28.937Z",
+        "updatedAt": "2024-09-27T17:05:13.382Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6333b8d3549755f6b980c934",
+        "title": "Oblivion AUTO EXE V1",
+        "game": {
+            "gameId": 5260582,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/5260582-1664334035014.jpg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Oblivion-AUTO-EXE-V1-6063\"))()",
+        "slug": "Universal-Script-Oblivion-AUTO-EXE-V1-6063",
+        "verified": true,
+        "views": 1828575,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2022-09-28T03:00:35.040Z",
+        "updatedAt": "2024-09-27T17:05:51.570Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "627ab0c0589ebfd35e5a1077",
+        "title": "Server Smasher",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://t5.rbxcdn.com/b90d3c82e146a650eb0e52a8873d4993"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-Server-Smasher-2542\"))()",
+        "slug": "Murder-Mystery-2-Server-Smasher-2542",
+        "verified": true,
+        "views": 565932,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": true,
+        "visibility": "public",
+        "createdAt": "2022-05-10T18:36:48.030Z",
+        "updatedAt": "2024-09-27T17:05:12.775Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "61d38349e784969c1a29a3b7",
+        "title": "DarkHub",
+        "game": {
+            "gameId": 6629053,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6629053-1641251657857.jpg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/DarkHub_193\"))()",
+        "slug": "DarkHub_193",
+        "verified": true,
+        "views": 731608,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "createdAt": "2022-01-03T23:14:17.862Z",
+        "updatedAt": "2024-09-27T17:05:55.709Z",
+        "__v": 0,
+        "visibility": "public",
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f6a913bad6558f119e37a9",
+        "title": "Fire HUb",
+        "game": {
+            "gameId": 3823754,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3823754-1727441171431.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Fire-HUb-19093\"))()",
+        "slug": "Universal-Script-Fire-HUb-19093",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 8838,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-27T12:46:11.502Z",
+        "updatedAt": "2024-09-27T17:06:49.616Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f61ab46cf23548b66c6e3e",
+        "title": "Universal 400 games and more",
+        "game": {
+            "gameId": 2855177,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/2855177-1727404724689.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Universal-400-games-and-more-19073\"))()",
+        "slug": "Universal-Script-Universal-400-games-and-more-19073",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://lootdest.org/s?6252121e",
+        "views": 18440,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-27T02:38:44.790Z",
+        "updatedAt": "2024-09-27T17:06:50.270Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f5dad653d21fe733ea933c",
+        "title": "Many Hub",
+        "game": {
+            "gameId": 5305124,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/5305124-1727388374904.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Many-Hub-19068\"))()",
+        "slug": "Universal-Script-Many-Hub-19068",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 26658,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-26T22:06:14.946Z",
+        "updatedAt": "2024-09-27T17:06:38.381Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f5d9247049a25e29179eca",
+        "title": "Galaxy Universal Hub",
+        "game": {
+            "gameId": 3797412,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3797412-1727387940274.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Galaxy-Universal-Hub-19067\"))()",
+        "slug": "Universal-Script-Galaxy-Universal-Hub-19067",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 26422,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-26T21:59:00.332Z",
+        "updatedAt": "2024-09-27T17:06:38.209Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f5d07bcfc4c8d7659094dd",
+        "title": "Script SOLARA",
+        "game": {
+            "gameId": 6872265039,
+            "name": "BedWars [TOURNAMENTS!]",
+            "imageUrl": "https://tr.rbxcdn.com/872985d17715710f0666246f9a28a279/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/BedWars-TOURNAMENTS!-Script-SOLARA-19066\"))()",
+        "slug": "BedWars-TOURNAMENTS!-Script-SOLARA-19066",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/XW2RWpP9Rs",
+        "views": 21619,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-26T21:22:03.869Z",
+        "updatedAt": "2024-09-27T17:05:56.029Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f5cffccfc4c8d7659087a0",
+        "title": "SOLARA",
+        "game": {
+            "gameId": 16740784399,
+            "name": "The Eastern War 2.3",
+            "imageUrl": "https://tr.rbxcdn.com/f6a058841dab61c9bd00c7b63bf4273c/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/The-Eastern-War-2.3-SOLARA-19065\"))()",
+        "slug": "The-Eastern-War-2.3-SOLARA-19065",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/XW2RWpP9Rs",
+        "views": 21264,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-26T21:19:56.491Z",
+        "updatedAt": "2024-09-27T17:05:56.165Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f481b49610383ee9788e80",
+        "title": "PEPSI HUB",
+        "game": {
+            "gameId": 3522402,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3522402-1727300019986.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-PEPSI-HUB-19003\"))()",
+        "slug": "Universal-Script-PEPSI-HUB-19003",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 38991,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-25T21:33:40.061Z",
+        "updatedAt": "2024-09-27T17:06:38.402Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f427efb8cda3cd463fba8d",
+        "title": "Surival Hub V4",
+        "game": {
+            "gameId": 6227901,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6227901-1727277039874.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Surival-Hub-V4-19000\"))()",
+        "slug": "Universal-Script-Surival-Hub-V4-19000",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 51019,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-25T15:10:39.928Z",
+        "updatedAt": "2024-09-27T17:06:50.262Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f254ca0eb32ec2f53be087",
+        "title": "Surival Hub V3",
+        "game": {
+            "gameId": 1307514,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/1307514-1727157450367.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Surival-Hub-V3-18939\"))()",
+        "slug": "Universal-Script-Surival-Hub-V3-18939",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 68540,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-24T05:57:30.418Z",
+        "updatedAt": "2024-09-27T17:06:50.227Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f218bc4f01333e18d40a14",
+        "title": "Ounce Hub",
+        "game": {
+            "gameId": 4780082,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/4780082-1727142076433.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Ounce-Hub-18913\"))()",
+        "slug": "Universal-Script-Ounce-Hub-18913",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 54646,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-24T01:41:16.490Z",
+        "updatedAt": "2024-09-27T17:06:38.425Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f0e4547e6ff77fba505958",
+        "title": "Master Fruit",
+        "game": {
+            "gameId": 7449423635,
+            "name": "Blox Fruits",
+            "imageUrl": "/images/script/7449423635-1727063124038.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Blox-Fruits-Master-Fruit-18864\"))()",
+        "slug": "Blox-Fruits-Master-Fruit-18864",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 89382,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-23T03:45:24.109Z",
+        "updatedAt": "2024-09-27T17:06:39.419Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f0e365d98d4ba1f502522e",
+        "title": "W hub",
+        "game": {
+            "gameId": 8641640,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8641640-1727062885726.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-W-hub-18863\"))()",
+        "slug": "Universal-Script-W-hub-18863",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 88764,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-23T03:41:25.777Z",
+        "updatedAt": "2024-09-27T17:06:38.400Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66f08e0dd98d4ba1f5f3799c",
+        "title": "FreezeHub",
+        "game": {
+            "gameId": 7424110,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/7424110-1727115943252.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-FreezeHub-18843\"))()",
+        "slug": "Universal-Script-FreezeHub-18843",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 68488,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-22T21:37:17.346Z",
+        "updatedAt": "2024-09-27T17:06:31.868Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66edf0d0c24c37cebe73588c",
+        "title": "Hade Universal Hub",
+        "game": {
+            "gameId": 2264673,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/2264673-1726869712419.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Hade-Universal-Hub-18697\"))()",
+        "slug": "Universal-Script-Hade-Universal-Hub-18697",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 160728,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-20T22:01:52.511Z",
+        "updatedAt": "2024-09-27T17:06:41.332Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66edefa3f5793c3f64b1a4a4",
+        "title": "The roblox universal script",
+        "game": {
+            "gameId": 8237055,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8237055-1726869411152.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-The-roblox-universal-script-18696\"))()",
+        "slug": "Universal-Script-The-roblox-universal-script-18696",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 160582,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-20T21:56:51.253Z",
+        "updatedAt": "2024-09-27T17:06:48.769Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66ede60ec24c37cebe717875",
+        "title": "Script SOLORA",
+        "game": {
+            "gameId": 14044547200,
+            "name": "untitled tag game [recode] ",
+            "imageUrl": "https://tr.rbxcdn.com/ee010223c4e5d6206079d8091862c5d8/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/untitled-tag-game-recode-Script-SOLORA-18692\"))()",
+        "slug": "untitled-tag-game-recode-Script-SOLORA-18692",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/XW2RWpP9Rs",
+        "views": 76655,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-20T21:15:58.076Z",
+        "updatedAt": "2024-09-27T17:06:49.079Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66ede5a6895f8db9a59e2ccd",
+        "title": "Autofarm SOLARA",
+        "game": {
+            "gameId": 606849621,
+            "name": "Jailbreak",
+            "imageUrl": "https://tr.rbxcdn.com/314322e4fb761a5c46896c276cbadc84/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Jailbreak-Autofarm-SOLARA-18691\"))()",
+        "slug": "Jailbreak-Autofarm-SOLARA-18691",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/XW2RWpP9Rs",
+        "views": 75868,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-20T21:14:14.177Z",
+        "updatedAt": "2024-09-27T17:05:57.785Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66ec0948948f9ce4b7542a46",
+        "title": "ECCS Searcher V26",
+        "game": {
+            "gameId": 8525928,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8525928-1726744904101.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-ECCS-Searcher-V26-18610\"))()",
+        "slug": "Universal-Script-ECCS-Searcher-V26-18610",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 61489,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-19T11:21:44.165Z",
+        "updatedAt": "2024-09-27T17:05:30.515Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66eb7b687e9d3f8265428bd9",
+        "title": "Script SOLARA",
+        "game": {
+            "gameId": 286090429,
+            "name": "Arsenal",
+            "imageUrl": "https://tr.rbxcdn.com/d017729797ae2982a24404a1564ed80e/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Arsenal-Script-SOLARA-18585\"))()",
+        "slug": "Arsenal-Script-SOLARA-18585",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/XW2RWpP9Rs",
+        "views": 67624,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-19T01:16:24.167Z",
+        "updatedAt": "2024-09-27T17:05:57.900Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66ea2aea2c90a6394aa7cd9d",
+        "title": "Platinum Universal",
+        "game": {
+            "gameId": 6578429,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6578429-1726622442082.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Platinum-Universal-18542\"))()",
+        "slug": "Universal-Script-Platinum-Universal-18542",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 189081,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-18T01:20:42.137Z",
+        "updatedAt": "2024-09-27T17:06:46.850Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66ea2a0f4221086201b57e86",
+        "title": "Silver Hub",
+        "game": {
+            "gameId": 2550716,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/2550716-1726622223345.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Silver-Hub-18541\"))()",
+        "slug": "Universal-Script-Silver-Hub-18541",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 187130,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-18T01:17:03.473Z",
+        "updatedAt": "2024-09-27T17:06:47.793Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e8df00e2eb91d2a751b6f1",
+        "title": "SOLARA SUPPORTED",
+        "game": {
+            "gameId": 301549746,
+            "name": "Counter Blox",
+            "imageUrl": "https://tr.rbxcdn.com/800a6064a5730a68f25edf6863593333/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Counter-Blox-SOLARA-SUPPORTED-18496\"))()",
+        "slug": "Counter-Blox-SOLARA-SUPPORTED-18496",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/XW2RWpP9Rs",
+        "views": 71580,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-17T01:44:32.118Z",
+        "updatedAt": "2024-09-27T17:05:58.137Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e8de487e9d3f8265ee4930",
+        "title": "Script SOLARA SUPPORTED",
+        "game": {
+            "gameId": 4581966615,
+            "name": "Anomic",
+            "imageUrl": "https://tr.rbxcdn.com/35799cd850daf28482684bdbc2e86e48/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Anomic-Script-SOLARA-SUPPORTED-18494\"))()",
+        "slug": "Anomic-Script-SOLARA-SUPPORTED-18494",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/XW2RWpP9Rs",
+        "views": 68006,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-17T01:41:28.220Z",
+        "updatedAt": "2024-09-27T17:05:57.745Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e78f152888fd67dd0c78c8",
+        "title": "Blade Ball Hub",
+        "game": {
+            "gameId": 6017463,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6017463-1726451477172.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Blade-Ball-Hub-18428\"))()",
+        "slug": "Universal-Script-Blade-Ball-Hub-18428",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 208353,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-16T01:51:17.232Z",
+        "updatedAt": "2024-09-27T17:06:48.756Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e78d56e2eb91d2a72b042a",
+        "title": "Universal Hub",
+        "game": {
+            "gameId": 7037105,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/7037105-1726451030192.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Universal-Hub-18427\"))()",
+        "slug": "Universal-Script-Universal-Hub-18427",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 205883,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-16T01:43:50.333Z",
+        "updatedAt": "2024-09-27T17:06:38.586Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e756b72e5b1c94622e9e77",
+        "title": "Surival Hub V2",
+        "game": {
+            "gameId": 8152722,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8152722-1726437047593.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Surival-Hub-V2-18415\"))()",
+        "slug": "Universal-Script-Surival-Hub-V2-18415",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 157368,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-15T21:50:47.780Z",
+        "updatedAt": "2024-09-27T17:06:50.347Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e4f8089a4116ebf8bcb11b",
+        "title": "World Hub",
+        "game": {
+            "gameId": 9609421,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/9609421-1726281736826.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-World-Hub-18268\"))()",
+        "slug": "Universal-Script-World-Hub-18268",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 240448,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-14T02:42:16.945Z",
+        "updatedAt": "2024-09-27T17:06:38.346Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e4f666548cd293af5fb221",
+        "title": "Ultra Hub",
+        "game": {
+            "gameId": 9829006,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/9829006-1726281318016.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Ultra-Hub-18266\"))()",
+        "slug": "Universal-Script-Ultra-Hub-18266",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 237859,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-14T02:35:18.126Z",
+        "updatedAt": "2024-09-27T17:06:51.144Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e36d80388f07d7f503c297",
+        "title": "AK Hub",
+        "game": {
+            "gameId": 1525298,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/1525298-1726180735954.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-AK-Hub-18207\"))()",
+        "slug": "Universal-Script-AK-Hub-18207",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 277967,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-12T22:38:56.071Z",
+        "updatedAt": "2024-09-27T17:06:52.080Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e2fe8ab6977bc5c0dee60e",
+        "title": "Hub",
+        "game": {
+            "gameId": 17625359962,
+            "name": "RIVALS",
+            "imageUrl": "/images/script/17625359962-1726152330516.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/RIVALS-Hub-18197\"))()",
+        "slug": "RIVALS-Hub-18197",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 284376,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-12T14:45:30.557Z",
+        "updatedAt": "2024-09-27T17:06:47.073Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e1bf2190945b7c78392866",
+        "title": "Blox Fruits Master",
+        "game": {
+            "gameId": 3435010,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3435010-1726070561734.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Blox-Fruits-Master-18157\"))()",
+        "slug": "Universal-Script-Blox-Fruits-Master-18157",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 295637,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-11T16:02:41.794Z",
+        "updatedAt": "2024-09-27T17:06:46.916Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e108f56e3b3e360aabca86",
+        "title": "Universal Walk on walls",
+        "game": {
+            "gameId": 11889621060,
+            "name": "😣 The patience obby 😣",
+            "imageUrl": "/images/script/11889621060-1726023925438.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/The-patience-obby-Universal-Walk-on-walls-18129\"))()",
+        "slug": "The-patience-obby-Universal-Walk-on-walls-18129",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 293636,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-11T03:05:25.492Z",
+        "updatedAt": "2024-09-27T17:06:46.941Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e05a33d07471fc6e955cf4",
+        "title": "Caos Hub",
+        "game": {
+            "gameId": 5904161,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/5904161-1725979187138.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Caos-Hub-18099\"))()",
+        "slug": "Universal-Script-Caos-Hub-18099",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 296700,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-10T14:39:47.198Z",
+        "updatedAt": "2024-09-27T17:06:46.916Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e059c2c191a86fd2eecbbc",
+        "title": "Omega Hub",
+        "game": {
+            "gameId": 5648971,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/5648971-1725979074160.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Omega-Hub-18098\"))()",
+        "slug": "Universal-Script-Omega-Hub-18098",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 289875,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-10T14:37:54.200Z",
+        "updatedAt": "2024-09-27T17:06:46.937Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66e02b44d07471fc6e8e03bf",
+        "title": "ECCS Searcher V25",
+        "game": {
+            "gameId": 3047230,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3047230-1725967172399.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-ECCS-Searcher-V25-18089\"))()",
+        "slug": "Universal-Script-ECCS-Searcher-V25-18089",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 88821,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-10T11:19:32.469Z",
+        "updatedAt": "2024-09-27T17:06:29.713Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66de152c3b674b9907cc7330",
+        "title": "SB Hub",
+        "game": {
+            "gameId": 8086734,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8086734-1725830896702.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-SB-Hub-18062\"))()",
+        "slug": "Universal-Script-SB-Hub-18062",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 332237,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-08T21:20:44.069Z",
+        "updatedAt": "2024-09-27T17:06:47.068Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66de0f802b400fa0e8378a85",
+        "title": "R Hub",
+        "game": {
+            "gameId": 6193561,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6193561-1725828992357.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-R-Hub-18061\"))()",
+        "slug": "Universal-Script-R-Hub-18061",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 322689,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-08T20:56:32.495Z",
+        "updatedAt": "2024-09-27T17:06:46.866Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66dc5854abcc65b00a65db40",
+        "title": "Ultra Hub",
+        "game": {
+            "gameId": 4256115,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/4256115-1725716564769.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Ultra-Hub-17973\"))()",
+        "slug": "Universal-Script-Ultra-Hub-17973",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 354374,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-07T13:42:44.824Z",
+        "updatedAt": "2024-09-27T17:06:46.899Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66db954c666310250cfb9a5b",
+        "title": "Hubs Hub",
+        "game": {
+            "gameId": 6597838,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6597838-1725666636878.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Hubs-Hub-17937\"))()",
+        "slug": "Universal-Script-Hubs-Hub-17937",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 366651,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-06T23:50:36.914Z",
+        "updatedAt": "2024-09-27T17:06:46.950Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66da2b56abcc65b00a0aaa4f",
+        "title": "Oxytocin Hub",
+        "game": {
+            "gameId": 5923124,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/5923124-1725573973995.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Oxytocin-Hub-17900\"))()",
+        "slug": "Universal-Script-Oxytocin-Hub-17900",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 398765,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-05T22:06:14.055Z",
+        "updatedAt": "2024-09-27T17:06:46.899Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66d7cead718f1fb591c7738b",
+        "title": "Plus Project V2",
+        "game": {
+            "gameId": 3714036,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3714036-1725419181459.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Plus-Project-V2-17902\"))()",
+        "slug": "Universal-Script-Plus-Project-V2-17902",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/503397.txt",
+        "views": 431798,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-04T03:06:21.509Z",
+        "updatedAt": "2024-09-27T17:06:46.888Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66d7901e4135b5e324c51754",
+        "title": "Dopamina Hub",
+        "game": {
+            "gameId": 1026567,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/1026567-1725403166586.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Dopamina-Hub-17894\"))()",
+        "slug": "Universal-Script-Dopamina-Hub-17894",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 416833,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-09-03T22:39:26.639Z",
+        "updatedAt": "2024-09-27T17:06:46.908Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66d30409223bfe505e3ce4e9",
+        "title": "BlueRed Univ Hub",
+        "game": {
+            "gameId": 9222567,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/9222567-1725105161488.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-BlueRed-Univ-Hub-17755\"))()",
+        "slug": "Universal-Script-BlueRed-Univ-Hub-17755",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 414683,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-31T11:52:41.547Z",
+        "updatedAt": "2024-09-27T17:06:50.421Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66d0be9fb42b1c67cee0d0bc",
+        "title": "Adrenaline Hube",
+        "game": {
+            "gameId": 8444705,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8444705-1724956319407.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Adrenaline-Hube-17723\"))()",
+        "slug": "Universal-Script-Adrenaline-Hube-17723",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 592492,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-29T18:31:59.454Z",
+        "updatedAt": "2024-09-27T17:06:46.857Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66cd29c1fc011ba01a0576ae",
+        "title": "BlueRed Hub V15",
+        "game": {
+            "gameId": 6564657,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6564657-1724721601158.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V15-17616\"))()",
+        "slug": "Universal-Script-BlueRed-Hub-V15-17616",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://keyrblx.com/getkey/ShifeScripts",
+        "views": 540169,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-27T01:20:01.215Z",
+        "updatedAt": "2024-09-27T17:06:50.266Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66cb758954e2ebab31a9f3cf",
+        "title": "Projeto LKB I Update",
+        "game": {
+            "gameId": 1240123653,
+            "name": "Zombie Attack",
+            "imageUrl": "https://tr.rbxcdn.com/0758662d40db5bc485cb0a6e30150031/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Zombie-Attack-Projeto-LKB-I-Update-17631\"))()",
+        "slug": "Zombie-Attack-Projeto-LKB-I-Update-17631",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 425634,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-25T18:18:49.147Z",
+        "updatedAt": "2024-09-27T17:06:50.389Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66c65dfeb5c2ee1fea59b438",
+        "title": "ECCS Searcher V24",
+        "game": {
+            "gameId": 2924893,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/2924893-1724276222814.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-ECCS-Searcher-V24-17481\"))()",
+        "slug": "Universal-Script-ECCS-Searcher-V24-17481",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 279886,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-21T21:37:02.881Z",
+        "updatedAt": "2024-09-27T17:06:19.714Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66c36f3f0d6823c4a5906c9d",
+        "title": "Script",
+        "game": {
+            "gameId": 7137652,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/7137652-1724084175151.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Script-17356\"))()",
+        "slug": "Universal-Script-Script-17356",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 189343,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-19T16:13:51.236Z",
+        "updatedAt": "2024-09-27T17:03:48.881Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66b45e8e99aef146da375eea",
+        "title": "gui stuff",
+        "game": {
+            "gameId": 4353489,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/4353489-1723096718870.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-gui-stuff-16871\"))()",
+        "slug": "Universal-Script-gui-stuff-16871",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 213079,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-08T05:58:38.932Z",
+        "updatedAt": "2024-09-27T17:02:03.368Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66b374e41f499543a9608652",
+        "title": "FUKU V2 BEST UNIVERSAL SCRIPT",
+        "game": {
+            "gameId": 7066570,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/7066570-1723036900294.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-FUKU-V2-BEST-UNIVERSAL-SCRIPT-16833\"))()",
+        "slug": "Universal-Script-FUKU-V2-BEST-UNIVERSAL-SCRIPT-16833",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 217881,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-07T13:21:40.369Z",
+        "updatedAt": "2024-09-27T17:02:03.440Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66b1ed098a2370184e58c65f",
+        "title": "Rochips panel v7",
+        "game": {
+            "gameId": 1159282,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/1159282-1722936585252.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Rochips-panel-v7-16778\"))()",
+        "slug": "Universal-Script-Rochips-panel-v7-16778",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 881017,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-06T09:29:45.313Z",
+        "updatedAt": "2024-09-27T17:06:50.229Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66b15204a0d34ef23d90ec40",
+        "title": "BlueRed Hub V17",
+        "game": {
+            "gameId": 9378414,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/9378414-1722896900193.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V17-16743\"))()",
+        "slug": "Universal-Script-BlueRed-Hub-V17-16743",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://keyrblx.com/getkey/ShifeScripts",
+        "views": 967931,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-08-05T22:28:20.243Z",
+        "updatedAt": "2024-09-27T17:06:50.416Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66a86a601ae03fe014f015ee",
+        "title": "Roblox Script 10 games 15 scripts",
+        "game": {
+            "gameId": 8345924,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8345924-1722313312518.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Roblox-Script-10-games-15-scripts-16360\"))()",
+        "slug": "Universal-Script-Roblox-Script-10-games-15-scripts-16360",
+        "verified": false,
+        "key": false,
+        "keyLink": "https://discord.com/invite/m8RUPCBy",
+        "views": 312499,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-30T04:21:52.573Z",
+        "updatedAt": "2024-09-27T17:05:21.863Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66a3d97041b0e34966beb18e",
+        "title": "ScriptHub V3 Best Mobile ScriptHub Keyless",
+        "game": {
+            "gameId": 7180639,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/7180639-1722014064492.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-ScriptHub-V3-Best-Mobile-ScriptHub-Keyless-16115\"))()",
+        "slug": "Universal-Script-ScriptHub-V3-Best-Mobile-ScriptHub-Keyless-16115",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 1358773,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-26T17:14:24.554Z",
+        "updatedAt": "2024-09-27T17:06:28.034Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "669dcacd8279b6b8e2ec2f39",
+        "title": "Jonny Cheese Hub 69 Games",
+        "game": {
+            "gameId": 6386503,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6386503-1721617101658.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Jonny-Cheese-Hub-69-Games-15885\"))()",
+        "slug": "Universal-Script-Jonny-Cheese-Hub-69-Games-15885",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/xU5Ser9RSg",
+        "views": 1014911,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-22T02:58:21.711Z",
+        "updatedAt": "2024-09-27T17:06:30.374Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "669db4b313431046aded4f31",
+        "title": "Rochips Panel",
+        "game": {
+            "gameId": 6361398,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6361398-1721611443794.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Rochips-Panel-15882\"))()",
+        "slug": "Universal-Script-Rochips-Panel-15882",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 989006,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-22T01:24:03.839Z",
+        "updatedAt": "2024-09-27T17:06:50.388Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "669d55b7fde4115d9e3548d0",
+        "title": "Highlight HuB",
+        "game": {
+            "gameId": 3719793,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3719793-1721587127738.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Highlight-HuB-15879\"))()",
+        "slug": "Universal-Script-Highlight-HuB-15879",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://discord.gg/Ju74jG2d",
+        "views": 242763,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-21T18:38:47.804Z",
+        "updatedAt": "2024-09-27T17:02:08.872Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "669520af15aa21f1afc1cfe9",
+        "title": "Gg hub updated",
+        "game": {
+            "gameId": 6313979,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6313979-1721049263958.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Gg-hub-updated-15568\"))()",
+        "slug": "Universal-Script-Gg-hub-updated-15568",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 290384,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-15T13:14:23.989Z",
+        "updatedAt": "2024-09-27T17:04:01.652Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66941ac815aa21f1afa40630",
+        "title": "Projeto LKB I New Gen PC",
+        "game": {
+            "gameId": 13388465281,
+            "name": "Hard Time",
+            "imageUrl": "https://tr.rbxcdn.com/7f86de14520511263d17dd1490fa5028/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Hard-Time-Projeto-LKB-I-New-Gen-PC-15536\"))()",
+        "slug": "Hard-Time-Projeto-LKB-I-New-Gen-PC-15536",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 1225027,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-14T18:36:56.735Z",
+        "updatedAt": "2024-09-27T17:06:50.272Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "669418d3fd880ae854d7bb73",
+        "title": "Projeto LKB I New Gen",
+        "game": {
+            "gameId": 1240123653,
+            "name": "Zombie Attack",
+            "imageUrl": "https://tr.rbxcdn.com/0758662d40db5bc485cb0a6e30150031/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Zombie-Attack-Projeto-LKB-I-New-Gen-15535\"))()",
+        "slug": "Zombie-Attack-Projeto-LKB-I-New-Gen-15535",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 808621,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-14T18:28:35.546Z",
+        "updatedAt": "2024-09-27T17:06:50.362Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6693f99d39cf09d7ceea0a5b",
+        "title": "Gg hub",
+        "game": {
+            "gameId": 4651060,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/4651060-1720974338819.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Gg-hub-15621\"))()",
+        "slug": "Universal-Script-Gg-hub-15621",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 264440,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-14T16:15:25.055Z",
+        "updatedAt": "2024-09-27T17:02:08.926Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6693f80d2670586425de8d0c",
+        "title": "PLUS PROJECT V1",
+        "game": {
+            "gameId": 6148262,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6148262-1720973325249.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-PLUS-PROJECT-V1-15620\"))()",
+        "slug": "Universal-Script-PLUS-PROJECT-V1-15620",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://paste.myconan.net/498970.txt",
+        "views": 1401991,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-14T16:08:45.292Z",
+        "updatedAt": "2024-09-27T17:06:46.874Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6692982c48803f8f00f163db",
+        "title": "Malay hub V1",
+        "game": {
+            "gameId": 3638096,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3638096-1720883244757.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Malay-hub-15564\"))()",
+        "slug": "Universal-Script-Malay-hub-15564",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 343656,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-13T15:07:24.948Z",
+        "updatedAt": "2024-09-27T17:02:08.912Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "669030f63fd2f675a540e84d",
+        "title": "MM AUTO SHOOT",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "/images/script/142823291-1720725750587.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-MM-AUTO-SHOOT-15532\"))()",
+        "slug": "Murder-Mystery-2-MM-AUTO-SHOOT-15532",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 388027,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-11T19:22:30.621Z",
+        "updatedAt": "2024-09-27T17:06:47.311Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "668b21a3fcea3a821811f961",
+        "title": "KillAura and ClickKill",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://tr.rbxcdn.com/3111f53e15eb0c3bcaf4949af4657ba3/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-KillAura-and-ClickKill-15392\"))()",
+        "slug": "Murder-Mystery-2-KillAura-and-ClickKill-15392",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 185927,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-07T23:15:47.932Z",
+        "updatedAt": "2024-09-27T17:02:08.916Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66882497adb939e951d5d3f2",
+        "title": "KENNHUB V32 FIXED",
+        "game": {
+            "gameId": 1556798,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/1556798-1720198295000.png"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-KENNHUB-V32-FIXED-15292\"))()",
+        "slug": "Universal-Script-KENNHUB-V32-FIXED-15292",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 149124,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-05T16:51:35.026Z",
+        "updatedAt": "2024-09-27T17:02:08.940Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6688026c29391053f70e6861",
+        "title": "nexus",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://tr.rbxcdn.com/3111f53e15eb0c3bcaf4949af4657ba3/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-nexus-15285\"))()",
+        "slug": "Murder-Mystery-2-nexus-15285",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 214626,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-05T14:25:48.355Z",
+        "updatedAt": "2024-09-27T17:06:23.139Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66861e49682d5e41ea374f6d",
+        "title": "BlueRed Hub V16",
+        "game": {
+            "gameId": 4314173,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/4314173-1720065609083.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V16-15223\"))()",
+        "slug": "Universal-Script-BlueRed-Hub-V16-15223",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://keyrblx.com/getkey/ShifeScripts",
+        "views": 995260,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-04T04:00:09.966Z",
+        "updatedAt": "2024-09-27T17:05:18.071Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6685f63863b1d48c4ad892db",
+        "title": "Rochips Emote Animation panel",
+        "game": {
+            "gameId": 1548389,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/1548389-1720055352710.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Rochips-Emote-Animation-panel-15213\"))()",
+        "slug": "Universal-Script-Rochips-Emote-Animation-panel-15213",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 1007700,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-04T01:09:12.773Z",
+        "updatedAt": "2024-09-27T17:05:18.074Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66823668a257d9a06252cc00",
+        "title": "Rochips Panel V6",
+        "game": {
+            "gameId": 9293175,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/9293175-1719809640169.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Rochips-Panel-V6-15097\"))()",
+        "slug": "Universal-Script-Rochips-Panel-V6-15097",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 904633,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-07-01T04:54:00.259Z",
+        "updatedAt": "2024-09-27T17:03:51.122Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6681730179dc0a33a3a72a78",
+        "title": "BlueRed Hub V15",
+        "game": {
+            "gameId": 2956727,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/2956727-1719759617283.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V15-15033\"))()",
+        "slug": "Universal-Script-BlueRed-Hub-V15-15033",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://rekonise.com/get-key-or-shife-avkc7",
+        "views": 676132,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-30T15:00:17.631Z",
+        "updatedAt": "2024-09-27T17:05:51.870Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66813b8ba257d9a06241961e",
+        "title": "ECCS Searcher V23",
+        "game": {
+            "gameId": 6175919,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/6175919-1719745419165.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-ECCS-Searcher-V23-15031\"))()",
+        "slug": "Universal-Script-ECCS-Searcher-V23-15031",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 268431,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-30T11:03:39.494Z",
+        "updatedAt": "2024-09-27T17:03:11.367Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "667e2f8d50d8f538864bb7e2",
+        "title": "QUI hub ONLY HUB WORKING FOR SOLARA",
+        "game": {
+            "gameId": 4791329820,
+            "name": "Flat",
+            "imageUrl": "/images/script/4791329820-1719545741275.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Flat-QUI-hub-ONLY-HUB-WORKING-FOR-SOLARA-14838\"))()",
+        "slug": "Flat-QUI-hub-ONLY-HUB-WORKING-FOR-SOLARA-14838",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 322566,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-28T03:35:41.313Z",
+        "updatedAt": "2024-09-27T17:02:08.901Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "667a351a50d8f5388612e9bc",
+        "title": "Shife Hub V4 By Shife",
+        "game": {
+            "gameId": 4061769,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/4061769-1719285017978.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Shife-Hub-V4-By-Shife-14627\"))()",
+        "slug": "Universal-Script-Shife-Hub-V4-By-Shife-14627",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://keyrblx.com/getkey/ShifeScripts",
+        "views": 589049,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-25T03:10:18.037Z",
+        "updatedAt": "2024-09-27T17:04:41.421Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6679a0197136b108477e1910",
+        "title": "HE",
+        "game": {
+            "gameId": 11889621060,
+            "name": "😣 The patience obby 😣",
+            "imageUrl": "/images/script/11889621060-1719246873069.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/The-patience-obby-HE-14602\"))()",
+        "slug": "The-patience-obby-HE-14602",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 289592,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-24T16:34:33.133Z",
+        "updatedAt": "2024-09-27T17:02:18.744Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "667732f550eba4e89b07183b",
+        "title": "BlueRed Hub V14",
+        "game": {
+            "gameId": 2928037,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/2928037-1719087861813.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V14-14509\"))()",
+        "slug": "Universal-Script-BlueRed-Hub-V14-14509",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://rekonise.com/get-key-or-shife-avkc7",
+        "views": 571058,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-22T20:24:21.865Z",
+        "updatedAt": "2024-09-27T17:04:41.507Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66757967cc02e403b7b1efe0",
+        "title": "Kurdish Game scripts",
+        "game": {
+            "gameId": 4791329820,
+            "name": "Flat",
+            "imageUrl": "/images/script/4791329820-1718974823383.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Flat-Kurdish-Game-scripts-14465\"))()",
+        "slug": "Flat-Kurdish-Game-scripts-14465",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 285524,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-21T13:00:23.519Z",
+        "updatedAt": "2024-09-27T16:59:06.181Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6670613c096e54547a42445c",
+        "title": "mhm",
+        "game": {
+            "gameId": 9528624,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/9528624-1718640956371.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-mhm-14278\"))()",
+        "slug": "Universal-Script-mhm-14278",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 148407,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-17T16:15:56.415Z",
+        "updatedAt": "2024-09-27T16:59:06.076Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "666f60fb00155ac45a315d01",
+        "title": "Gravity and speed coils",
+        "game": {
+            "gameId": 4328307,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/4328307-1718575355723.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Gravity-and-speed-coils-14249\"))()",
+        "slug": "Universal-Script-Gravity-and-speed-coils-14249",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 206627,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-16T22:02:35.868Z",
+        "updatedAt": "2024-09-27T16:59:06.109Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "666ccf2b41a9ca62736482cf",
+        "title": "INF LUCK BOOSTER",
+        "game": {
+            "gameId": 17651315739,
+            "name": "Horrors RNG 💀 [RELEASE]",
+            "imageUrl": "/images/script/17651315739-1718406955672.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Horrors-RNG-RELEASE-INF-LUCK-BOOSTER-14143\"))()",
+        "slug": "Horrors-RNG-RELEASE-INF-LUCK-BOOSTER-14143",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 554515,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-14T23:15:55.717Z",
+        "updatedAt": "2024-09-27T17:03:52.069Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "666cb93ca3895f5ede0dd511",
+        "title": "Bloxy Cola Hub V4",
+        "game": {
+            "gameId": 7014528,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/7014528-1718401340065.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Bloxy-Cola-Hub-V4-14138\"))()",
+        "slug": "Universal-Script-Bloxy-Cola-Hub-V4-14138",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://rekonise.com/bloxy-cola-system-un0ea",
+        "views": 483016,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-14T21:42:20.132Z",
+        "updatedAt": "2024-09-27T16:59:06.119Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "666cafa8435328f0921a9e0e",
+        "title": "BlueRed Hub V13",
+        "game": {
+            "gameId": 8728021,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8728021-1718398888202.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V13-14134\"))()",
+        "slug": "Universal-Script-BlueRed-Hub-V13-14134",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://keyrblx.com/getkey/ShifeScripts",
+        "views": 524747,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-14T21:01:28.246Z",
+        "updatedAt": "2024-09-27T17:04:41.614Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "666c61245869de0eeea42af0",
+        "title": "script",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://tr.rbxcdn.com/3111f53e15eb0c3bcaf4949af4657ba3/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-script-14138\"))()",
+        "slug": "Murder-Mystery-2-script-14138",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 124969,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-14T15:26:28.764Z",
+        "updatedAt": "2024-09-27T16:59:06.116Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6663db51ea7e29c6d3713c46",
+        "title": "Pshade Reborn",
+        "game": {
+            "gameId": 7136133,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/7136133-1717820241772.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Pshade-Reborn-13862\"))()",
+        "slug": "Universal-Script-Pshade-Reborn-13862",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 680395,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-08T04:17:21.806Z",
+        "updatedAt": "2024-09-27T17:03:53.579Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6660fa3ef1eeae26efa03279",
+        "title": "MM Faker",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://tr.rbxcdn.com/3111f53e15eb0c3bcaf4949af4657ba3/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-MM-Faker-13763\"))()",
+        "slug": "Murder-Mystery-2-MM-Faker-13763",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 129750,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-05T23:52:30.405Z",
+        "updatedAt": "2024-09-27T16:59:06.091Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6660d1af4cc0f2be9437e23c",
+        "title": "Mm2 Inmortal",
+        "game": {
+            "gameId": 2539694,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/2539694-1717621167895.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Mm2-Inmortal-13758\"))()",
+        "slug": "Universal-Script-Mm2-Inmortal-13758",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 115583,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-05T20:59:27.928Z",
+        "updatedAt": "2024-09-27T16:59:06.014Z",
+        "__v": 0,
+        "matched": [
+            "script",
+            "title",
+            "script"
+        ]
+    },
+    {
+        "_id": "66604681fdf16ad325dd1651",
+        "title": "Rochips haven",
+        "game": {
+            "gameId": 4924922222,
+            "name": "Brookhaven 🏡RP",
+            "imageUrl": "/images/script/4924922222-1717585537928.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Brookhaven-RP-Rochips-haven-13749\"))()",
+        "slug": "Brookhaven-RP-Rochips-haven-13749",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 479288,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-05T11:05:37.964Z",
+        "updatedAt": "2024-09-27T17:04:17.163Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "665d01fd9fbfc50b9b831072",
+        "title": "Rochips Panel V5",
+        "game": {
+            "gameId": 5295339,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/5295339-1717371388995.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Rochips-Panel-V5-13676\"))()",
+        "slug": "Universal-Script-Rochips-Panel-V5-13676",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 817213,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-06-02T23:36:29.039Z",
+        "updatedAt": "2024-09-27T17:04:41.708Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6652407b540c4f950b1458d5",
+        "title": "GhostHub",
+        "game": {
+            "gameId": 142823291,
+            "name": "Murder Mystery 2",
+            "imageUrl": "https://tr.rbxcdn.com/3111f53e15eb0c3bcaf4949af4657ba3/500/280/Image/Jpeg"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Murder-Mystery-2-GhostHub-MM-13413\"))()",
+        "slug": "Murder-Mystery-2-GhostHub-MM-13413",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 188839,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-05-25T19:48:11.657Z",
+        "updatedAt": "2024-09-27T16:59:06.114Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6649692f18ab7aef70c7edfb",
+        "title": "Rochips Panel v4",
+        "game": {
+            "gameId": 3093879,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/3093879-1716087087276.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-Rochips-Panel-v4-13177\"))()",
+        "slug": "Universal-Script-Rochips-Panel-v4-13177",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 525837,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-05-19T02:51:27.301Z",
+        "updatedAt": "2024-09-27T17:00:30.185Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "6648d83dcceb505b1c4b5074",
+        "title": "System hub V2",
+        "game": {
+            "gameId": 9561967,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/9561967-1716223913817.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-System-hub-V2-13161\"))()",
+        "slug": "Universal-Script-System-hub-V2-13161",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 512492,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-05-18T16:33:01.919Z",
+        "updatedAt": "2024-09-27T17:02:05.276Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "663be368badcdfdc3f75d0ad",
+        "title": "BlueRed Hub V12",
+        "game": {
+            "gameId": 8054079,
+            "name": "Universal Script 📌",
+            "imageUrl": "/images/script/8054079-1715200872385.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Universal-Script-BlueRed-Hub-V12-12969\"))()",
+        "slug": "Universal-Script-BlueRed-Hub-V12-12969",
+        "verified": false,
+        "key": true,
+        "keyLink": "https://keyrblx.com/getkey/ShifeScripts",
+        "views": 538601,
+        "scriptType": "free",
+        "isUniversal": true,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-05-08T20:41:12.429Z",
+        "updatedAt": "2024-09-27T17:04:41.822Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "66398af72bfd2871393cfe21",
+        "title": "Rochips panel bh",
+        "game": {
+            "gameId": 4924922222,
+            "name": "Brookhaven 🏡RP",
+            "imageUrl": "/images/script/4924922222-1715047159168.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Brookhaven-RP-Rochips-panel-bh-12914\"))()",
+        "slug": "Brookhaven-RP-Rochips-panel-bh-12914",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 487275,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-05-07T01:59:19.205Z",
+        "updatedAt": "2024-09-27T17:00:30.645Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    },
+    {
+        "_id": "663988560bcd7926c9bc1446",
+        "title": "Rochips Panel Nds",
+        "game": {
+            "gameId": 189707,
+            "name": "Natural Disaster Survival",
+            "imageUrl": "/images/script/189707-1715046486080.webp"
+        },
+        "script": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Natural-Disaster-Survival-Rochips-Panel-Nds-12913\"))()",
+        "slug": "Natural-Disaster-Survival-Rochips-Panel-Nds-12913",
+        "verified": false,
+        "key": false,
+        "keyLink": "",
+        "views": 474857,
+        "scriptType": "free",
+        "isUniversal": false,
+        "isPatched": false,
+        "visibility": "public",
+        "createdAt": "2024-05-07T01:48:06.157Z",
+        "updatedAt": "2024-09-27T17:00:30.779Z",
+        "__v": 0,
+        "matched": [
+            "features"
+        ]
+    }
+]
