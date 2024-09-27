@@ -54,11 +54,11 @@ v4=v2:CreateToggle({Name="Hitbox",Callback=function()loadstring(game:HttpGet("ht
 ;end})
 local v2=v1:CreateTab("UI Remake",18312822691);
 local v3=v2:CreateSection("Executor UI");
-v4=v2:CreateToggle({Name="Cubix Executor ",Callback=function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Cubix-17013"))()
+v4=v2:CreateButton({Name="Cubix Executor ",Callback=function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Cubix-17013"))()
 ;end})
-v4=v2:CreateToggle({Name="Appleware Executor ",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXcl/Projects/refs/heads/main/Appleware%20BETA"))()
+v4=v2:CreateButton({Name="Appleware Executor ",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXcl/Projects/refs/heads/main/Appleware%20BETA"))()
 ;end})
-v4=v2:CreateToggle({Name="Codex Executor ",Callback=function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Cubix-17013"))()
+v4=v2:CreateButton({Name="Codex Executor ",Callback=function(loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Cubix-17013"))()
 ;end})
 
 
