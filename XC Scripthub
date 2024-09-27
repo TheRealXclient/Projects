@@ -1,0 +1,70 @@
+local v0=loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+;local v1=v0:CreateWindow({Name="Xclient",
+LoadingTitle="ScriptHub",
+LoadingSubtitle="by KcdDev",
+ConfigurationSaving= {
+Enabled=true,
+FolderName=nil,
+FileName="Example"},
+Discord={
+Enabled=false,
+Invite="kX88KPJ8mK",
+RememberJoins=false},
+KeySystem=true,
+KeySettings=
+{Title="Access ScriptHub"
+,Subtitle="Key System",
+Note="Get the key from Xclient Discord in #key system",
+FileName="insert your key token",
+SaveKey=false,
+GrabKeyFromSite=false,
+Key={"SuperXclient"}}});
+local v2=v1:CreateTab("Loading Projects",18298162898);
+local v3=v2:CreateSection("Roblox Scripts Guis");local v4=v2:CreateButton({Name="Jailbreak",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="BloxFruits",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Murderers Vs Sheriff Duels",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/murdersvssherrifsduels/main/rubyhub", true))() 
+;end})
+v4=v2:CreateButton({Name="BladeBall",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="MM2",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Build a Boat for Treasure",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Dahood",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Arsenal",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Lumber Tycoon 2",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="PrisonLife",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Pls Donate",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Rivals",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Pet Simulator",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Bloxburg",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Brookhaven RP",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Strongest Battlegrounds",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Survive the Killer",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Prisonbreak",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Baddies",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+v4=v2:CreateButton({Name="Football Fusion 2",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+local v2=v1:CreateTab("Player",18298164473);
+local v3=v2:CreateSection("Player Visuals");
+v4=v2:CreateButton({Name="Jump",Callback=function()loadstring(game:HttpGet("https://pastebin.com/raw/5qvC8snF"))()
+;end})
+v4=v2:CreateButton({Name="Speed",Callback=function()loadstring(game:HttpGet("https://pastebin.com/raw/K3AuMYea"))()
+;end})
+v4=v2:CreateButton({Name="Fly",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+local v2=v1:CreateTab("Hitbox",18312822691);
+local v3=v2:CreateSection("Mobile & PC");
+v4=v2:CreateToggle({Name="Hitbox",Callback=function()loadstring(game:HttpGet("https://pastebin.com/raw/mG37TZ4C"))()
+;end})
+local v2=v1:CreateTab("UI Remake",18312822691);
+local v3=v2:CreateSection("Executor UI");
+v4=v2:CreateToggle({Name="Cubix Executor ",Callback=function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Cubix-17013"))()
+;end})
+v4=v2:CreateToggle({Name="Appleware Executor ",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXcl/Projects/refs/heads/main/Appleware%20BETA"))()
+;end})
+v4=v2:CreateToggle({Name="Codex Executor ",Callback=function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Cubix-17013"))()
+;end})
+
+
+
+
+
+
+
+
