@@ -1899,41 +1899,6 @@ tab.create_slider({
         print("Brightness set to: " .. brightness)
     end
 })
-tab.create_dropdown({
-    name = 'Mvsd Fake Collection Rating',
-    flag = 'CollectionSpoof',
-    section = 'right',
-    option = '', 
-    options = {'100', '200', '1000', '2000', '5000', '10000', '20000', '50000', '100000', '200000', "2500000", "5564532"},
-    callback = function(selected)
-        local Players = game:GetService("Players")
-        local LocalPlayer = Players.LocalPlayer
-        local PlayerGui = LocalPlayer.PlayerGui
-        local Collection = PlayerGui.Collection
-        local Frame = Collection.Frame
-        local HeaderFrame = Frame.HeaderFrame
-        local LeftFrame = HeaderFrame.LeftFrame
-        local RatingFrame = LeftFrame.RatingFrame
-        local Rating = RatingFrame.Rating
-        
-        Rating.Text = selected
-        print("Collection spoofed to: " .. selected)
-    end
-})
-tab.create_dropdown({
-    name = 'Mvsd Fake Winstreak',
-    flag = 'WinstreakSpoofer',
-    section = 'right',
-    option = '',  
-    options = {'100', '200', '1000', '2000', '5000', '10000', '20000', '50000', '100000', '200000'},
-    callback = function(selected)
-        local player = game:GetService("Players").LocalPlayer
-        local streak = tonumber(selected)
-        
-        player.PlayerGui.CharacterLabel.Frame.Card.StreakFrame.Streak.Text = tostring(streak)
-        print("Winstreak spoofed to: " .. selected)
-    end
-})
 
 
 
