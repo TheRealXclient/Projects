@@ -1,0 +1,50 @@
+local v0=loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+;local v1=v0:CreateWindow({Name="Xclient",
+LoadingTitle="ScriptHub",
+LoadingSubtitle="by KcdDev",
+ConfigurationSaving= {
+Enabled=true,
+FolderName=nil,
+FileName="Example"},
+Discord={
+Enabled=false,
+Invite="kX88KPJ8mK",
+RememberJoins=false},
+KeySystem=true,
+KeySettings=
+{Title="Access ScriptHub"
+,Subtitle="Key System",
+Note="Get the key from Xclient Discord in #key system",
+FileName="Key",
+SaveKey=false,
+GrabKeyFromSite=false,
+Key={"Kcd"}}});
+local v2=v1:CreateTab("Loading Projects",18298162898);
+local v3=v2:CreateSection("Roblox Scripts Guis");local v4=v2:CreateButton({Name="Speed",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Sigma-3131/Scripts/main/Azure%20Mobile"))();end})
+v4=v2:CreateButton({Name="Prisonbreak Armory",Callback=function()loadstring(game:HttpGet("https://pastebin.com/raw/9JZST7Ur"))();end}) 
+v4=v2:CreateButton({Name="Murderers Vs Sheriff Duels Loopkill",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/murdersvssherrifsduels/main/rubyhub"))();end})
+v4=v2:CreateButton({Name="Jailbreak Autorob 4",Callback=function()loadstring(game:HttpGet('http://scripts.projectauto.xyz/AutoRobV4'))();end}) 
+v4=v2:CreateButton({Name="Jailbreak AutoArrest 3",Callback=function(loadstring(game:HttpGet('http://scripts.projectauto.xyz/AutoArrestV3'))();end}) 
+v4=v2:CreateButton({Name="Jailbreak Mod",Callback=function()loadstring(game:HttpGet('https://weinzspace.com/cata/hub.lua'))();end}) 
+v4=v2:CreateButton({Name="Dahood",Callback=function()loadstring(game:HttpGet("https://rawscripts.net/raw/Da-Hood-UPTED-Zinc-Hub-10720"))();end})
+v4=v2:CreateButton({Name="Rivals",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubRivals"))();end
+v4=v2:CreateButton({Name="MVSD XENO",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealAvrwm/Projects/refs/heads/main/Xeno%20MVSD%20script.lua"))() 
+;end
+})local v2=v1:CreateTab("Player",18298164473);
+local v3=v2:CreateSection("Player Visuals");
+v4=v2:CreateToggle({Name="Jump",Callback=function()loadstring(game:HttpGet("https://pastebin.com/raw/5qvC8snF"))()
+;end})
+v4=v2:CreateToggle({Name="Speed",Callback=function()loadstring(game:HttpGet("https://pastebin.com/raw/K3AuMYea"))()
+;end})
+v4=v2:CreateButton({Name="Fly",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/funhaji/attaaGHSya/main/atasag"))();end})
+local v2=v1:CreateTab("Hitbox",18312822691);
+local v3=v2:CreateSection("Mobile & PC");
+v4=v2:CreateToggle({Name="Hitbox",Callback=function()loadstring(game:HttpGet("https://pastebin.com/raw/mG37TZ4C"))()
+;end})
+local v2=v1:CreateTab("UI Beta",18298162898);
+local v3=v2:CreateSection("Executor Remake UI");
+v4=v2:CreateButton({Name="Cubix Executor ",Callback=function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Cubix-17013"))()
+;end})
+
+
+
