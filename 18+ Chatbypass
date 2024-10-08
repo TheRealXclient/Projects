@@ -1,0 +1,210 @@
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
+local AbyssVersion = " v1.0.0";
+
+local Window = Fluent:CreateWindow({
+    Title = "KcdDev | Chat Bypasser"..AbyssVersion,
+    TabWidth = 160,
+    Size = UDim2.fromOffset(580, 460),
+    Acrylic = true,
+    Theme = "Aqua",
+    MinimizeKey = Enum.KeyCode.RightShift
+})
+
+local Tabs = {
+    Main = Window:AddTab({ Title = "Main", Icon = "" }),
+    Bypass = Window:AddTab({ Title = "Bypass", Icon = "" }),
+    WordBypasses = Window:AddTab({ Title = "Word Bypasses", Icon = "" }),
+    SentanceBypasses = Window:AddTab({ Title = "Sentance Bypasses", Icon = "" })
+}
+Window:SelectTab(1);
+
+local characterstable={["a"]="ðŸ…",["b"]="ðŸ…‘",["c"]="ðŸ…’",["d"]="ðŸ…“",["e"]="ðŸ…”",["f"]="ðŸ…•",["g"]="ðŸ…–",["h"]="ðŸ…—",["i"]="ðŸ…˜",["j"]="ðŸ…™",["k"]="ðŸ…š",["l"]="ðŸ…›",["m"]="ðŸ…œ",["n"]="ðŸ…",["o"]="ðŸ…ž",["p"]="ðŸ…Ÿ",["q"]="ðŸ… ",["r"]="ðŸ…¡",["s"]="ðŸ…¢",["t"]="ðŸ…£",["u"]="ðŸ…¤",["v"]="ðŸ…¥",["w"]="ðŸ…¦",["x"]="ðŸ…§",["y"]="ðŸ…¨",["z"]="ðŸ…©",[" "]=" "};
+
+local function Bypass(input)
+    local lowered = input:lower();
+    local output = "";
+    for i = 1, #lowered do
+        local char = lowered:sub(i, i);
+        output = output .. (characterstable[char] or char);
+    end
+    return output
+end
+
+function SendBypass(message)
+    local msg = Bypass(message);
+    if game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel then
+        game:GetService("TextChatService").ChatInputBarConfiguration.TargetTextChannel:SendAsync(msg);
+    else
+        game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+    end
+end
+
+Fluent:Notify({
+    Title = "KcdDev | Distribution",
+    Content = "Chat Bypasser Loaded",
+    SubContent = "Join the discord: .gg/XUUjpeyc3S",
+    Duration = nil
+})
+
+Tabs.Main:AddParagraph({
+    Title = "Thank you for using KcdDev | ChatBypasser V1.0"
+})
+
+Tabs.Main:AddButton({
+    Title = "Discord",
+    Description = "Copys the discord invite to your clipboard",
+    Callback = function()
+        setclipboard("https://discord.gg/63pT8eeVkJ")
+        local Request = syn and syn.request or request
+        Request({
+            Url = "http://127.0.0.1:6463/rpc?v=1",
+            Method = "POST",
+            Headers = {
+                ["Content-Type"] = "application/json",
+                ["Origin"] = "https://discord.com"
+            },
+            Body = game.HttpService:JSONEncode({
+                cmd = "INVITE_BROWSER",
+                args = {
+                    code = "63pT8eeVkJ"
+                },
+                nonce = game.HttpService:GenerateGUID(false)
+            }),
+        })
+        Fluent:Notify({
+        Title = "KcdDev | Chat Bypasser",
+        Content = "Automatically joined discord, if it didn't work the link has been copied to your clipboard.",
+        Duration = 8
+    })
+    end
+})
+
+Tabs.Bypass:AddParagraph({
+    Title = "Chat Bypass",
+    Content = "Enter text to bypass below"
+})
+
+local BypassText = Tabs.Bypass:AddInput("BypassText", {
+    Title = "Text To Bypass",
+    Default = "",
+    Placeholder = "",
+    Numeric = false,
+    Finished = true,
+    Callback = function(Text)
+        SendBypass(Text)
+    end
+});
+
+-- Word Presets
+
+Tabs.WordBypasses:AddParagraph({
+    Title = "Word Presets",
+    Content = "Bypass Buttons"
+})
+
+Tabs.WordBypasses:AddButton({
+    Title = "Discord",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("discord")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Fuck",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("fuck")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Dickhead",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Dickhead")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Fucking her hard",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Fucking her hard")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Fuck Nigga",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Fuck Nigga")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Shut the fuck up BITCH",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Shut the fuck up BITCH")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Suck my 40 inch dick MothaFucker",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Suck my 40 inch dick MothaFucker")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Nigger go suck my toes",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Nigger go suck my toes")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Damn the Condom fell off , let me stick my dick in anyways",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Damn the Condom fell off , let me stick my dick in anyways")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Fuck ME DADDY",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Fuck ME DADDY")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Finna beat her shi upside down , have her pussy farting",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Finna beat her shi upside down , have her pussy farting")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Ion do tha gay shi , but i love me sum baddies tha be a stud , they be havin them FAT BOOTY",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Ion do tha gay shi , but i love me sum baddies tha be a stud , they be havin them FAT BOOTY")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "Pissing while cumming is fun",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("Pissing while cumming is fun")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "I lost my Virginity at the age of 1 , when my father had my dick wet in his mouth",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("I lost my Virginity at the age of 1 , when my father had my dick wet in his mouth")
+    end
+})
+Tabs.WordBypasses:AddButton({
+    Title = "I once let diddy hit , but he took advantage of me , he raped me",
+    Description = "Bypass Button",
+    Callback = function()
+        SendBypass("I once let diddy hit , but he took advantage of me , he raped me")
+    end
+})
+
