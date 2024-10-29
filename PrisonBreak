@@ -1,449 +1,106 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "KcdDev | PrisonBreak", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Player = game.Players.LocalPlayer
 
-local Tab = Window:MakeTab({
-	Name = "Information",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
 
-local Section = Tab:AddSection({
-	Name = "PrisonBreak GUI was created by PegRblx"
-})
-
-local Section = Tab:AddSection({
-	Name = "If you have any further questions reach my dms in discord , @therealkcd"
-})
-
-local Section = Tab:AddSection({
-	Name = "This Script is for Prisonbreak only."
-})
-
-local Section = Tab:AddSection({
-	Name = "This Script will get updated as more cool features apply."
-})
-
-local Section = Tab:AddSection({
-	Name = "PrisonBreakHub   V1.0.1"
+-- Test Main Window
+local MainWindow = OrionLib:MakeWindow({
+    Name = "KcdDev | Key System",
+    HidePremium = false,
+    SaveConfig = true,
+    IntroEnabled = false
 })
 
 
-
-local Tab = Window:MakeTab({
-	Name = "Main",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-OrionLib:MakeNotification({ 
-	Name = "Xclient | Owner",
-	Content = "Injected",
-	Image = "rbxassetid://4483345998",
-	Time = 1
-})
-
-Tab:AddButton({
-	Name = "• Hitbox Expander",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/mG37TZ4C"))()
-
-
-
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• Inf Jump",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/5qvC8snF"))()
-
-
-   		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• Speed GUI",
-	Callback = function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Kcd%20Speedy"))() 
-
-   		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• AnimationChanger",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/t9EhCsD8"))()
-
-      		print("button pressed")
-  	end    
-})
-Tab:AddButton({
-	Name = "• Permanent ShiftLock",
-	Callback = function()
-loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Permanent-Shiftlock-7513"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-local Tab = Window:MakeTab({
-	Name = " Trolling",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-Tab:AddButton({
-	Name = "•  Fling",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI"))()
-
-
-   		print("button pressed")
-  	end    
-})
-
-local Tab = Window:MakeTab({
-	Name = "AutoRob",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-Tab:AddButton({
-	Name = "• Autorob v1",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Autorobv1"))() 
-
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• Autorob v2",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/aG1K9Td1"))()
-
-      		print("button pressed")
-  	end    
-})
-
-local Tab = Window:MakeTab({
-	Name = "Anti Mode",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-Tab:AddButton({
-	Name = "• AntiArrest",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/DgqW38E5"))()
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• AntiKill",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/2iVrLLQp"))()
-
-
-      		print("button pressed")
-  	end    
-})
-
-local Tab = Window:MakeTab({
-	Name = "Guns",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-local Section = Tab:AddSection({
-	Name = "Snipers , RPG , Laser will not be working atm"
+OrionLib:MakeNotification({
+    Name = "Enter your Key , to unlock Script",
+    Content = "You Are Logged In As "..Player.Name..".",
+    Image = "rbxassetid://4483345998",
+    Time = 5
 })
 
 
-Tab:AddButton({
-	Name = "• Tec-9",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/XREWTPxA"))() 
+-- Test Global Variables
+_G.Key = "SuperKcd"
+_G.KeyInput = "Enter Your Key"
 
-      		print("button pressed")
-  	end    
+
+local function LoadTestHub()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/PrisonBreak"))() 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+
+-- Notifications
+local function ShowCorrectKeyNotification()
+    OrionLib:MakeNotification({
+        Name = "Correct Key!",
+        Content = "Loading Your Script...",
+        Image = "rbxassetid://4483345998",
+        Time = 3
+    })
+end
+
+
+local function ShowIncorrectKeyNotification()
+    OrionLib:MakeNotification({
+        Name = "Incorrect Key!",
+        Content = "Enter The Correct Key.",
+        Image = "rbxassetid://4483345998",
+        Time = 2
+    })
+end
+
+
+-- Key System
+local KeySystemTab = MainWindow:MakeTab({
+    Name = "Key System",
+    Icon = "rbxassetid://2790551206",
+    PremiumOnly = false
 })
 
-Tab:AddButton({
-	Name = "• Revolver",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/gfBeFsWN"))() 
 
-      		print("button pressed")
-  	end    
+KeySystemTab:AddTextbox({
+    Name = "Enter Key Here!",
+    Default = "",
+    TextDisappear = true,
+    Callback = function(Value)
+        _G.KeyInput = Value
+    end    
 })
 
-Tab:AddButton({
-	Name = "• MP5",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/VMdCCHqd"))() 
 
-      		print("button pressed")
-  	end    
+KeySystemTab:AddButton({
+    Name = "Check Key!",
+    Callback = function()
+        if _G.KeyInput == _G.Key then
+            ShowCorrectKeyNotification()
+            wait(2)
+            LoadTestHub()
+        else
+            ShowIncorrectKeyNotification()
+        end
+    end    
 })
 
-Tab:AddButton({
-	Name = "• Sawed-Off",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/iWbTrkFH"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• P90",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/wssunczd"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• AUG",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/q3mVNjTQ"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• AK47",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/2Vw60NEa"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• SSG-08",
-	Callback = function()
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/SSG"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "•  AWP",
-	Callback = function()
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• RPG",
-	Callback = function()
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• SCAR-20",
-	Callback = function()
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "•  LASER MACHINE",
-	Callback = function()
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "•  Five-seVen",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/xNCSMuiX"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "•  Desert Eagle",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/sMyrFTpi"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "•  KRISS",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/J1jBSxUn"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• NOVA",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/3ysNqCbZ"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• UMP45",
-	Callback = function()
-
-loadstring(game:HttpGet("https://pastebin.com/raw/ckF60kan"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• FAMAS",
-	Callback = function()
-loadstring(game:HttpGet("https://pastebin.com/raw/VKs4LQD8"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• M4A1",
-	Callback = function()
-
-loadstring(game:HttpGet("https://pastebin.com/raw/U0FsXiiC"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-local Tab = Window:MakeTab({
-	Name = " Knifes",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-Tab:AddButton({
-	Name = "• Bayonet",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Bayonet"))()  
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• Golf Club",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Goff%20Club"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• Gut Knife",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Gut%20Knife"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• Godfather Knife",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/GodFather"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• Katana",
-	Callback = function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Katana"))() 
-
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "•  Baton",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Baton"))() 
 
 
-      		print("button pressed")
-  	end    
-})
 
-Tab:AddButton({
-	Name = "• SWAT-Knife",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/SwatKnife"))() 
 
-      		print("button pressed")
-  	end    
-})
 
-Tab:AddButton({
-	Name = "• Assassin Knife",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Assassin%20Knife"))() 
-      		print("button pressed")
-  	end    
-})
 
-Tab:AddButton({
-	Name = "• Venom Knife",
-	Callback = function()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/Venom%20Knife"))() 
-      		print("button pressed")
-  	end    
-})
-
-Tab:AddButton({
-	Name = "• Cyanide-Knife",
-	Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXclient/Projects/refs/heads/main/CyanideKnife"))()
-
-      		print("button pressed")
-  	end    
-})
-
-local Tab = Window:MakeTab({
-	Name = "Armor",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-Tab:AddButton({
-	Name = "• Spawn Current Amor",
-	Callback = function()
-
-loadstring(game:HttpGet("https://pastebin.com/raw/9JZST7Ur"))() 
-
-      		print("button pressed")
-  	end    
-})
