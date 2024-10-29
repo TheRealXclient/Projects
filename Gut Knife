@@ -1,0 +1,5 @@
+fireclickdetector(game:GetService("Workspace").Item["Melee_Criminal"]["Criminal_Melee_3"].ClickDetector)
+wait(0.00)
+fireclickdetector(game:GetService("Workspace").Item["Melee_Criminal"]["Criminal_Melee_3"].ClickDetector)
+fireclickdetector(game:GetService("Workspace").Item["Melee_Criminal"]["Criminal_Melee_3"].ClickDetector)
+fireclickdetector(game:GetService("Workspace").Item["Melee_Criminal"]["Criminal_Melee_3"].ClickDetector)
