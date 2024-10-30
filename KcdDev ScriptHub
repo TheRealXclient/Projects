@@ -67,7 +67,7 @@ main1:AddButton({
 })
 
 local Tab = Window:MakeTab({
-	Name = "• Hitbox & Esp",
+	Name = "• Player Combat",
 	Icon = "rbxassetid://70797040596888",
 	PremiumOnly = false
 })
@@ -98,12 +98,6 @@ pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w
 
       		print("button pressed")
   	end    
-})
-
-local Tab = Window:MakeTab({
-	Name = "• Player Combo",
-	Icon = "rbxassetid://70797040596888",
-	PremiumOnly = false
 })
 
 local Section = Tab:AddSection({
@@ -506,3 +500,4 @@ loadstring(game:HttpGet("https://pastebin.com/raw/9JZST7Ur"))()
 
 
 OrionLib:Init()
+
