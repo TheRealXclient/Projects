@@ -16,11 +16,12 @@ local Tab = Window:MakeTab({
 })
 
 Tab:AddLabel("KcdDev ScriptHub is Currently Updating")
-Tab:AddLabel("If you have any further questions reach my dms in discord , @therealkcd")
+Tab:AddLabel("If you have any further questions reach my dms in discord")
 Tab:AddLabel("Join KcdDev Scripthub Community on Discord")
 Tab:AddLabel("This GUI Will require a KeyPassword every 3-4 Days.")
 Tab:AddLabel("Latest GUI Update: KcdDevScriptHub  V1.0.1")
 Tab:AddLabel("KcdDev ScriptHub is Currently Updating")
+Tab:AddLabel("Discord: @therealkcd")
 
 local main1 = Window:MakeTab({
 	Name = "•Player Movement",
@@ -169,7 +170,7 @@ local Section = Tab:AddSection({
 	Name = "Snipers , RPG , Laser will not be working At this moment"
 })
 
-Tab:AddLabel("Make sure to “Scroll Down” to find other Game Features")
+Tab:AddLabel(""Make sure to “Scroll Down” to find other Game Features"")
 
 Tab:AddButton({
 	Name = "• Tec-9",
