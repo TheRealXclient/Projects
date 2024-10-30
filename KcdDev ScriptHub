@@ -10,7 +10,7 @@ local OrionLib = loadstring(game:HttpGet(("https://pastebin.com/raw/CK2G9BVv")))
 local Window = OrionLib:MakeWindow({Name = "KcdDev | ScriptHub [V1.0.1]", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local Tab = Window:MakeTab({
-	Name = "•ScriptHub GUI Info",
+	Name = "• ScriptHub Info",
 	Icon = "rbxassetid://70797040596888",
 	PremiumOnly = false
 })
@@ -24,7 +24,7 @@ Tab:AddLabel("KcdDev ScriptHub is Currently Updating")
 Tab:AddLabel("Discord: @therealkcd")
 
 local main1 = Window:MakeTab({
-	Name = "•Player Movement",
+	Name = "• Player Movement",
 	Icon = "rbxassetid://70797040596888",
 	PremiumOnly = false
 })
@@ -101,7 +101,7 @@ pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w
 })
 
 local Tab = Window:MakeTab({
-	Name = "•Player Combo",
+	Name = "• Player Combo",
 	Icon = "rbxassetid://70797040596888",
 	PremiumOnly = false
 })
@@ -153,7 +153,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%
 })
 
 local Tab = Window:MakeTab({
-	Name = "•PrisonBreak",
+	Name = "• PrisonBreak",
 	Icon = "rbxassetid://70797040596888",
 	PremiumOnly = false
 })
@@ -170,7 +170,7 @@ local Section = Tab:AddSection({
 	Name = "Snipers , RPG , Laser will not be working At this moment"
 })
 
-Tab:AddLabel(""Make sure to “Scroll Down” to find other Game Features"")
+Tab:AddLabel("Make sure to “Scroll Down” to find other Game Features")
 
 Tab:AddButton({
 	Name = "• Tec-9",
